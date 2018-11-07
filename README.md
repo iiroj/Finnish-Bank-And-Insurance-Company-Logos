@@ -1,6 +1,6 @@
 # Finnish Bank And Insurance Company Logos
 
-This repository contains logos for most Finnish Bank and Insurance companies in a Sketch file, along with exported individual SVG and PNG files.
+This repository contains logos for most Finnish Bank and Insurance companies in a Sketch file, along with exported individual SVG files.
 
 There are three versions:
 
@@ -12,7 +12,7 @@ There are three versions:
 
 All copyrights of individual logos belong to the respective companies.
 
-I take no credit or responsibility, and only make these available. Do not use the logos without excplicit permission.
+I take no credit or responsibility, and only make these available. Do not use the logos without explicit permission.
 
 ## Included logos:
 
