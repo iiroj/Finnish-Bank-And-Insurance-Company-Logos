@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Square/Pohjantähti</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Square/Pohjantähti" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0,4 C18.2943112,4 32,9.30383973 32,15.5191987 C32,21.7345576 17.8078671,27.7245409 0,28 L0,15.4590985 C9.4981978,14.8380634 16.1679988,12.7996661 16.1679988,10.0601002 C16.1679988,7.4457429 9.29760226,5.14190317 0,4.15525876 L0,4 Z M25.6842105,10.9473684 L23.4703642,10.4122317 L22.9372132,8.21052631 L22.4243726,10.4122317 L20.2105263,10.9473684 L22.4243726,11.4825051 L22.9372132,13.6842105 L23.4703642,11.4825051 L25.6842105,10.9473684 Z" id="Shape" fill="#FC1921"></path>
+    </g>
+</svg>
