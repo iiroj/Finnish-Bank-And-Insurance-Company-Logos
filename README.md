@@ -23,6 +23,7 @@ I take no credit or responsibility, and only make these available. Do not use th
 * ![Handelsbanken](Optical/Handelsbanken.svg)
 * ![If](Optical/If.svg)
 * ![Lähitapiola](Optical/Lähitapiola.svg)
+* ![Mobiilivarmenne](Optical/Mobiilivarmenne.svg)
 * ![Nordea](Optical/Nordea.svg)
 * ![OmaSp](Optical/OmaSp.svg)
 * ![OP](Optical/OP.svg)
